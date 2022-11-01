@@ -18,6 +18,7 @@ body {
 
 .App {
   text-align: center;
+  margin-top: 40px;
 }
 
 .App-logo {
@@ -37,7 +38,6 @@ body {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: var(--color-gray);
-  margin-top: 200px;
 }
 
 .App-link {
